@@ -647,7 +647,7 @@ ul {
         gap: 12px;
         padding: 42px 0;
         margin: 0;
-        background: orange;
+        background: #FFF7E9;
         list-style-type: none;
         transform: translatey(-120%);
         transition: .3s;
@@ -657,7 +657,7 @@ ul {
       .menu-item {
         display: block;
         padding: 8px;
-        color: white;
+        color: #4E3434;
         font-size: 18px;
         text-align: center;
         text-decoration: none;
